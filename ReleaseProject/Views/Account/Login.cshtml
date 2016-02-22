@@ -1,0 +1,32 @@
+﻿@model ReleaseProject.Models.AccountModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true, "Invalid credital!")
+    <div class="container" style="align-content:center" >
+        <fieldset>
+            <legend>Login Form</legend>
+            <div>@Html.LabelFor(u => u.UserEmail)</div>
+
+            <div>
+                @Html.TextBoxFor(u => u.UserEmail)
+                @Html.ValidationMessageFor(u => u.UserEmail)
+            </div>
+
+            <div>@Html.LabelFor(u => u.Password)</div>
+
+            <div>
+                @Html.PasswordFor(u => u.Password)
+                @Html.ValidationMessageFor(u => u.Password)
+            </div>
+            <input class="ui-button-text" type="submit" value="Login" />
+        </fieldset>
+    </div>
+    <div>
+        @Html.ActionLink("Forgot Password", "ForgotPassword")
+    </div>
+}

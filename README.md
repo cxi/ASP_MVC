@@ -24,8 +24,9 @@ Create a web application using the following technologies:
 |Address page|To show users' infromation|
 
 ##Installation
-```
+
 1.Download [Code Link](https://github.com/cxi/ASP_MVC.git)
+```
 2.First of all copy the from app data folder .bak file to database.
 3. ...
 ```

@@ -25,13 +25,12 @@ Create a web application using the following technologies:
 
 ##Installation
 ```
-1.Download [Code] ()
+1.Download [Code Link](https://github.com/cxi/ASP_MVC.git)
 2.First of all copy the from app data folder .bak file to database.
 3. ...
 ```
 ##To do list
-```
-- [x]Bootstrap
-- [ ]CSS
-- [ ]Encription
-```
+- [x] Bootstrap
+- [ ] CSS
+- [ ] Encription
+

@@ -23,3 +23,15 @@ Create a web application using the following technologies:
 |Login page|To validate users' username/password|
 |Address page|To show users' infromation|
 
+##Installation
+```
+1.Download [Code] ()
+2.First of all copy the from app data folder .bak file to database.
+3. ...
+```
+##To do list
+```
+- [x]Bootstrap
+- [ ]CSS
+- [ ]Encription
+```

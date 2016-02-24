@@ -35,3 +35,5 @@ Create a web application using the following technologies:
 - [ ] CSS
 - [ ] Encription
 
+##5. Summary
+This Readme file is for purpose of practising documenting files using Github formate.

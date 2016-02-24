@@ -1,6 +1,6 @@
 # ASP_MVC
 
-**1. Objective**
+##1. Objective
 Create a web application using the following technologies:
 ```bash
 •	Visual Studio 2013
@@ -13,7 +13,7 @@ Create a web application using the following technologies:
 •	Bootstrap
 •	Etc.
 ```
-**2. Requirements**
+##2. Requirements
 ```bash
 2.1	Build an address book.
 2.2	Landing page.

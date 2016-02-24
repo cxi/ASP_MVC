@@ -18,3 +18,8 @@ Create a web application using the following technologies:
 2.1	Build an address book.
 2.2	Landing page.
 ```
+|Pages|Usage|
+|---|---|
+|Login page|To validate users' username/password|
+|Address page|To show users' infromation|
+

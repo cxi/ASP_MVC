@@ -27,13 +27,14 @@ Create a web application using the following technologies:
 [Code Link](https://github.com/cxi/ASP_MVC.git)
 ```
 1.Download code 
-2.First of all copy the from app data folder .bak file to database.
+2.Copy the file from app data folder .bak file to sql sever database(2014 sql sever express).
 3. ...
 ```
 ##4. To do list
 - [x] Bootstrap
 - [ ] CSS
 - [ ] Encription
+- [X] Moving database to cloud( windows azure sql)
 
 ##5. Summary
 This Readme file is for purpose of practising documenting files using Github formate.

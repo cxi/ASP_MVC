@@ -27,8 +27,9 @@ Create a web application using the following technologies:
 [Code Link](https://github.com/cxi/ASP_MVC.git)
 ```
 1.Download code 
-2.Copy the file from app data folder .bak file to sql sever database(2014 sql sever express).
-3. ...
+2.Copy the .bak file from app data folder and restore it to local sql sever database(2014 sql sever express).
+3.Modify the connection string to your local database.
+4. ...
 ```
 ##4. To do list
 - [x] Bootstrap

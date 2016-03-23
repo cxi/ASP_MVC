@@ -27,9 +27,10 @@ Create a web application using the following technologies:
 [Code Link](https://github.com/cxi/ASP_MVC.git)
 ```
 1.Download code 
-2.Copy the .bak file from app data folder and restore it to local sql sever database(2014 sql sever express).
-3.Modify the connection string to your local database.
-4. ...
+2.Modify the connection string in web.config file point to your local database.
+3.Since it uses Entity Framework. After you first run the application it will automaticlly creat tables in your database
+4.Or copy the .bak file from app data folder and restore it to local sql sever database(2014 sql sever express).
+5. ...
 ```
 ##4. To do list
 - [x] Bootstrap
